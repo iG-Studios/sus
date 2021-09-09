@@ -10,7 +10,7 @@ Modify the "input.txt" file with your *sus* programming input, and run sus.exe t
 ---
 
 ## What is it?
-"Sus" is an [esoteric programming language](https://esolangs.org/wiki/Esoteric_programming_language) that is [turing complete](https://en.wikipedia.org/wiki/Turing_completeness); think of it as an alternative [BrainFuck](https://esolangs.org/wiki/Brainfuck). Unlike BF though, this is more simplistic and forgiving; this seems suspiciously too good to be true, but I promise, it works.
+"Sus" is an [esoteric programming language](https://esolangs.org/wiki/Esoteric_programming_language) that is [turing complete](https://en.wikipedia.org/wiki/Turing_completeness); think of it as an alternative [BrainFuck](https://esolangs.org/wiki/Brainfuck). This was something I purely made in free time originally on the Roblox platform, but I decided to port it to the love2d framework in another set of free time for non-robloxians.
 
 Like BF, this is based on an array and pointer. The pointer moves across an array and may increment/decrement values, and output that value as an ASCII character.
 
