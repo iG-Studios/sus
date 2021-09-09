@@ -4,8 +4,8 @@
 
 ## How to use it
 
-Download and unpack [sus.zip](sus.zip) to get started!
-Modify the "input.txt" file with your *sus* programming input, and run sus.exe to compile it and see the output.
+[Download and unpack the compiler](https://github.com/iG-Studios/sus/releases) to get started!
+Modify the "input.txt" file with your *sus* programming input, and run sus.exe to compile it and view the output.
 
 ---
 
